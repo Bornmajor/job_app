@@ -13,7 +13,9 @@
 7. <b>Role-based Access Control</b>: Implements role-based authorization to manage permissions and access levels for administrators, government agencies, and recruiting companies.
 
 # App shots
-![Screenshot (333)](https://github.com/Bornmajor/job_app/assets/98744068/8039795e-e2bd-4f69-a287-df9b804a7d57)
+
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/8039795e-e2bd-4f69-a287-df9b804a7d57" width="600px"/>
+
 
 
 
