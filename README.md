@@ -14,7 +14,41 @@
 
 # App shots
 
-<img src="https://github.com/Bornmajor/job_app/assets/98744068/8039795e-e2bd-4f69-a287-df9b804a7d57" width="600px"/>
+<div style="display:flex;">
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/8039795e-e2bd-4f69-a287-df9b804a7d57" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/20964bdf-dcde-4292-a877-b3619a37635b" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/187168e9-1532-466e-a7c9-4be693f7d4e6" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/0a09563a-4321-4ca9-80f5-bbfc84bc5b53" width="300px"/>
+</div>
+
+<div style="display:flex;">
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/5ea17446-4ae5-4082-84b0-953a1290fc7e" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/86d1028e-877b-4d8b-9e6c-f41fcca219f1" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/7279f6e5-ef9a-4969-a721-eb1505f51ee8" width="300px"/>
+</div>
+
+<div style="display:flex;">
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/0b9ab475-bdcc-4d89-91e6-c4046494112e" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/0a3d29b0-85f7-48f9-9875-133d5ae42309" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/d5606bda-b20d-452f-98db-e089b4185391" width="300px"/>
+</div>
+
+
+<div style="display:flex;">
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/48178cc7-4e1c-4d93-8e62-860677c94c06" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/b2164b7e-91e4-42f7-bc54-6915aefc0248" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/e980adaf-1487-440e-a018-b744697f2114" width="300px"/>
+</div>
+
+<div style="display:flex;">
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/b6719158-faef-40b2-833f-858f369e1b51" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/bb6f3fec-6fb8-4f7e-94ba-b57d899c2e6f" width="300px"/>
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/9eff50f3-4195-449b-8773-7010990c658f" width="300px"/>
+</div>
+
+<div style="display:flex;">
+<img src="https://github.com/Bornmajor/job_app/assets/98744068/22801612-c99c-432c-81ba-b9fe66a4b492" width="300px"/>
+</div>
 
 
 
