@@ -1,0 +1,24 @@
+https://docs.google.com/spreadsheets/d/1Wy80SyxSKxwhmmQ5i4Lb8bfZTY6i6N9yIsIHIYkZFWA/edit#gid=2001613119
+
+
+
+$('.search_filter').keyup(function(){
+   let search_text = $(this).val().toUpperCase();
+    // alert();
+
+    //each loop card
+    $('.job-filter-card').each(function(){
+        //attribute like job-title='Software'
+      let job_title = $(this).attr('job-title').toUpperCase();
+      let company_title = $(this).attr('company-title').toUpperCase();
+ 
+     
+      if(job_title .indexOf(search_text)> -1 || company_title.indexOf(search_text)> -1){
+        $(this).css("display","");
+      
+      } else{
+        $(this).css("display","none");
+        }
+    })
+
+  });
